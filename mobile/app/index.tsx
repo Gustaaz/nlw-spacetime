@@ -16,7 +16,7 @@ import { BaiJamjuree_700Bold } from '@expo-google-fonts/bai-jamjuree'
 import bluerBg from '../src/assets/bg-bluer.png'
 import Stripes from '../src/assets/stripes.svg'
 import NLWLogo from '../src/assets/nlw-logo.svg'
-import { api } from '../src/assets/lib/api'
+import { api } from '../src/lib/api'
 
 const StyleStripes = styled(Stripes)
 
